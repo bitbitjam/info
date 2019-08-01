@@ -1,5 +1,5 @@
 # ZGB 
-Engine for creating great games for the original Game Boy!
+Great engine for creating cool games for the original Game Boy!
 Use gbdk and allows your game gets 4-directional scroll, bigger maps, transparent sprites, fonts, music, sound effects and many more!
 
 https://github.com/Zal0/ZGB
